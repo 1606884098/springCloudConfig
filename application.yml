@@ -1,7 +1,6 @@
 ﻿spring:
-  profiles:
+  profiles: - dev
     active:
-    - dev
 ---
 spring:
   profiles: dev     #开发环境
