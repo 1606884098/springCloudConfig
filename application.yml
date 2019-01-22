@@ -1,5 +1,5 @@
-spring: 
-  profiles: 
+spring:
+  profiles:
     active:
 ---
 spring:
